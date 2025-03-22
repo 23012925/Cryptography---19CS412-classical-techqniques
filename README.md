@@ -74,7 +74,8 @@ Simulating Caesar Cipher
 
 
 Input : Anna University
-Encrypted Message : Dqqd Xqlyhuvlwb Decrypted Message : Anna University
+Encrypted Message : Dqqd Xqlyhuvlwb 
+Decrypted Message : Anna University
 
 ## RESULT:
 The program is executed successfully
@@ -277,7 +278,9 @@ return 0;
 
 ## OUTPUT:
 Output:
-Key text: Monarchy Plain text: instruments Cipher text: gatlmzclrqtx
+Key text: Monarchy 
+Plain text: instruments 
+Cipher text: gatlmzclrqtx
 
 ## RESULT:
 The program is executed successfully
@@ -365,7 +368,9 @@ Simulating Hill Cipher
 
 
 Input Message : SecurityLaboratory
-Padded Message : SECURITYLABORATORY Encrypted Message : EACSDKLCAEFQDUKSXU Decrypted Message : SECURITYLABORATORY
+Padded Message : SECURITYLABORATORY 
+Encrypted Message : EACSDKLCAEFQDUKSXU 
+Decrypted Message : SECURITYLABORATORY
 ## RESULT:
 The program is executed successfully
 
@@ -435,7 +440,8 @@ Simulating Vigenere Cipher
 
 
 Input Message : SecurityLaboratory
-Encrypted Message : NMIYEMKCNIQVVROWXC Decrypted Message : SECURITYLABORATORY
+Encrypted Message : NMIYEMKCNIQVVROWXC 
+Decrypted Message : SECURITYLABORATORY
 ## RESULT:
 The program is executed successfully
 
